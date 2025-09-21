@@ -1,7 +1,7 @@
 
-# Exercícios sobre Grafos 1
+# Exercícios sobre Grafos 2
 
-**Conteúdo da Disciplina**: Grafos 1<br>
+**Conteúdo da Disciplina**: Grafos 2<br>
 
 ## Alunos
 
