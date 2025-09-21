@@ -15,7 +15,9 @@
 Esse exercício visa buscar a resolução dos exercícios escolhidos pela plataforma do LeetCode, com o objetivo de mostrar nossos conhecimentos aprendidos no conteúdo de grafos 2. Neles vamos aplicar conceitos e conhecimentos de lógica aprendidos na matéria de Projeto de Algoritmos com o professor Maurício Serrano.
 
 Principais funcionalidades:
-- Colocar as funcionalidades
+- Q1
+- Q2
+- Union Find
 
 
 ## Screenshots
@@ -54,7 +56,15 @@ Principais funcionalidades:
 
 #### Questão 3   
 
+![Minimum Cost Walk in Weighted Graph](/imgs/questao3.png)
 
+[Link da questão](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/description/?envType=problem-list-v2&envId=graph)
+
+#### Questão 3 no LeetCode
+
+![Resposta questão 3](/imgs/resp_questao3.png)
+
+[Código da resposta questão 3](/code/questao3.c)
 
 ---
 
