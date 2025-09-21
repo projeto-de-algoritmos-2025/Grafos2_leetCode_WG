@@ -33,6 +33,7 @@ Principais funcionalidades:
 ![Resposta questão 1](/imgs/resp_questao1.png)
 
 [Código da resposta questão 1](/code/questao1.c)
+
 ---
 
 #### Questão 2   
