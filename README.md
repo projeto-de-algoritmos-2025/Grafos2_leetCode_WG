@@ -24,23 +24,30 @@ Principais funcionalidades:
 
 #### Questão 1   
 
-[Network Delay Time](/imgs/questao_1.png)
+![Network Delay Time](/imgs/questao_1.png)
 
-[Link](https://leetcode.com/problems/network-delay-time/description/?envType=problem-list-v2&envId=shortest-path)
+[Link da questão](https://leetcode.com/problems/network-delay-time/description/?envType=problem-list-v2&envId=shortest-path)
 
 #### Questão 1 no LeetCode  
 
-[Resposta questão 1](/imgs/resp_questao1.png)
+![Resposta questão 1](/imgs/resp_questao1.png)
 
+[Código da resposta questão 1](/code/questao1.c)
 ---
 
 #### Questão 2   
 
-[Minimum Obstacle Removal to Reach Corner](/imgs/questao_2.png)
+![Minimum Obstacle Removal to Reach Corner](/imgs/questao_2.png)
 
-[Link](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/description/?envType=problem-list-v2&envId=shortest-path)
+[Link da questão](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/description/?envType=problem-list-v2&envId=shortest-path)
+
+
 
 #### Questão 2 no LeetCode  
+
+![Resposta questão 2](/imgs/resp_questao2.png)
+
+[Código da resposta questão 2](/code/questao2.c)
 
 ---
 
