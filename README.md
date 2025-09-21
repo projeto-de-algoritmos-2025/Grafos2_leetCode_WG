@@ -15,9 +15,9 @@
 Esse exercício visa buscar a resolução dos exercícios escolhidos pela plataforma do LeetCode, com o objetivo de mostrar nossos conhecimentos aprendidos no conteúdo de grafos 2. Neles vamos aplicar conceitos e conhecimentos de lógica aprendidos na matéria de Projeto de Algoritmos com o professor Maurício Serrano.
 
 Principais funcionalidades:
-- Q1
-- Q2
-- Union Find
+- Dijkstra.
+- 0-1 BFS -> Qunado se usa Dijkstra com arestas somente em 0 e 1.
+- Union Find.
 
 
 ## Screenshots
